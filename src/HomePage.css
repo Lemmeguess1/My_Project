@@ -1,0 +1,30 @@
+.call-to-action {
+    text-align: center;
+    padding: 20px;
+    background-color: #f8f9fa;
+  }
+  
+  .call-to-action h1 {
+    font-size: 2.5rem;
+    color: #333;
+  }
+  
+  .call-to-action p {
+    font-size: 1.25rem;
+    color: #666;
+  }
+  
+  .call-to-action button {
+    background-color: #ff6347;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 1rem;
+    cursor: pointer;
+  }
+  
+  .call-to-action button:hover {
+    background-color: #e55347;
+  }
+  
